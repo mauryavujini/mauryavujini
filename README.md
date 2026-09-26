@@ -1,4 +1,4 @@
-# Hi, I'm Maurya 👋
+# Hi, I'm Maurya
 
 🎓 3rd Year B.Tech Data Science Student at GITAM Deemed University
 
